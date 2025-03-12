@@ -13,7 +13,7 @@ Future Upgrade: Implementation of DistilBERT for faster inference
 
 **Dataset**
 
---> Source: Kaggle - Toxic Comment Classification
+--> Source: Kaggle - [Toxic Comment Classification](https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge)
 
 **Preprocessing:**
 
