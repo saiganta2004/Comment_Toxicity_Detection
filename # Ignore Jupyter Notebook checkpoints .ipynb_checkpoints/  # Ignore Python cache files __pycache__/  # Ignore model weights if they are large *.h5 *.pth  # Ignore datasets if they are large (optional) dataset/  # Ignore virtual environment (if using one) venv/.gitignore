@@ -1,0 +1,15 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore model weights if they are large
+*.h5
+*.pth
+
+# Ignore datasets if they are large (optional)
+dataset/
+
+# Ignore virtual environment (if using one)
+venv/
